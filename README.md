@@ -9,4 +9,3 @@ $ helm repo add krateo https://charts.krateo.io
 $ helm repo update krateo
 $ helm install finops-operator-vm-manager krateo/finops-operator-vm-manager
 ```
-# finops-operator-vm-manager-chart
